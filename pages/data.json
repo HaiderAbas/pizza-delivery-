@@ -1,0 +1,199 @@
+{
+  "Data": [
+    {
+      "id": 1,
+      "image":"../images/F1.png",
+      "title": "Big Mac Burger",
+      "plus": "$15.99",
+      "stars": "*****",
+      "time": "30 mins"
+    }
+  ],
+  "FavouriteCategoryData" : [
+    {
+      "id": 1,
+      "href":"../pizza",
+      "icon": "",
+      "name": "All"
+    },
+    {
+      "id": 2,
+      "href": "../pizza",
+      "icon":"" ,
+      "name": "Pizza"
+    },
+    {
+      "id": 3,
+      "href": "../pizza",
+      "icon": "",
+      "name": "Burgar"
+    },
+    {
+      "id": 4,
+      "href": "../pizza",
+      "icon": "",
+      "name": "Noodles"
+    },
+    {
+      "id": 5,
+      "href": "../pizza",
+      "icon": "",
+      "name": "Chicken"
+    },
+    {
+      "id": 6,
+      "href": "../pizza",
+      "icon": "",
+      "name": "Fish"
+    },
+    {
+      "id": 7,
+      "href": "../pizza",
+      "icon": "",
+      "name": "Standwich"
+    },
+    {
+      "id": 8,
+      "href": "../pizza",
+      "icon": "",
+      "name": "Soup"
+    },
+    {
+      "id": 9,
+      "href": "../pizza",
+      "icon": "",
+      "name": "Cake"
+    }
+  ],
+  "PizaaProduct" :[
+    {
+      "id": 1,
+      "image": "./images/F1.png",
+      "title": "Big Mac Burger",
+      "plus": "$15.99",
+      "stars": "*****",
+      "time": "30 mins"
+    },
+    {
+      "id": 2,
+      "image": "./images/F1.png",
+      "title": "Banana Pacakes",
+      "plus": "$15.99",
+      "stars": "*****",
+      "time": "30 mins"
+    },
+    {
+      "id": 3,
+      "image": "./images/F1.png",
+      "title": "Fresh Farm Pizza",
+      "plus": "$15.99",
+      "stars": "*****",
+      "time": "30 mins"
+    },
+    {
+      "id": 4,
+      "image": "./images/F1.png",
+      "title": "Big Mac Burger",
+      "plus": "$15.99",
+      "stars": "*****",
+      "time": "30 mins"
+    },
+    {
+      "id": 5,
+      "image": "./images/F1.png",
+      "title": "Banana Pacakes",
+      "plus": "$15.99",
+      "stars": "*****",
+      "time": "30 mins"
+    },
+    {
+      "id": 6,
+      "image": "./images/F1.png",
+      "title": "Fresh Farm Pizza",
+      "plus": "$15.99",
+      "stars": "*****",
+      "time": "30 mins"
+    },
+    {
+      "id": 7,
+      "image": "./images/F1.png",
+      "title": "Big Mac Burger",
+      "plus": "$15.99",
+      "stars": "*****",
+      "time": "30 mins"
+    },
+    {
+      "id": 8,
+      "image": "./images/F1.png",
+      "title": "Banana Pacakes",
+      "plus": "$15.99",
+      "stars": "*****",
+      "time": "30 mins"
+    },
+    {
+      "id": 9,
+      "image": "./images/F1.png",
+      "title": "Fresh Farm Pizza",
+      "plus": "$15.99",
+      "stars": "*****",
+      "time": "30 mins"
+    },
+    {
+      "id": 9,
+      "image": "./images/F1.png",
+      "title": "Fresh Farm Pizza",
+      "plus": "$15.99",
+      "stars": "*****",
+      "time": "30 mins"
+    },
+    {
+      "id": 10,
+      "image": "./images/F1.png",
+      "title": "Big Mac Burger",
+      "plus": "$15.99",
+      "stars": "*****",
+      "time": "30 mins"
+    },
+    {
+      "id": 11,
+      "image":"./images/F1.png",
+      "title": "Banana Pacakes",
+      "plus": "$15.99",
+      "stars": "*****",
+      "time": "30 mins"
+    },
+    {
+      "id": 12,
+      "image": "./images/F1.png",
+      "title": "Fresh Farm Pizza",
+      "plus": "$15.99",
+      "stars": "*****",
+      "time": "30 mins"
+    },
+    {
+      "id": 13,
+      "image": "./images/F1.png",
+      "title": "Big Mac Burger",
+      "plus": "$15.99",
+      "stars": "*****",
+      "time": "30 mins"
+    },
+    {
+      "id": 14,
+      "image": ["./images/F1.png","./images/F1.png","./images/F1.png"],
+      "title": "Banana Pacakes",
+      "plus": "$15.99",
+      "stars": "*****",
+      "time": "30 mins"
+    },
+    {
+      "id": 15,
+      "image": "./images/F1.png",
+      "title": "Fresh Farm Pizza",
+      "plus": "$15.99",
+      "stars": "*****",
+      "time": "30 mins"   
+    }
+    
+  ]
+}

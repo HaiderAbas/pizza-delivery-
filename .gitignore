@@ -1,0 +1,38 @@
+
+    3 # dependencies
+    4 /node_modules
+    5 /.pnp
+    6 .pnp.js
+    7 
+    8 # testing
+    9 /coverage
+   10 
+   11 # next.js
+   12 /.next/
+   13 /out/
+   14 
+   15 # production
+   16 /build
+   17 
+   18 # misc
+   19 .DS_Store
+   20 *.pem
+   21 
+   22 # debug
+   23 npm-debug.log*
+   24 yarn-debug.log*
+   25 yarn-error.log*
+   26 .pnpm-debug.log*
+   27 
+   28 # local env files
+   29 .env*.local
+   30 
+   31 # vercel
+   32 .vercel
+   33 
+   34 # typescript
+   35 *.tsbuildinfo
+   36 next-env.d.ts
+   37 
+   38 # storybook
+   39 storybook-static
